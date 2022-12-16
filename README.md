@@ -1,4 +1,3 @@
-# problem-solving
 
 # problem-solving
 
@@ -13,9 +12,10 @@
 
 1. Get the string.
 * Create a regular expression to check time in 24-hour format as mentioned below:
-``
+
+```php
 regex = "([01]?[0-9]|2[0-3]):[0-5][0-9]";
-``
+```
 
 * represents the start of the group.
 * [01]?[0-9] represents the time starts with 0-9, 1-9, 00-09, 10-19.
