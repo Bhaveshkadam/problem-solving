@@ -1,7 +1,7 @@
 
 
 public class Main {
-//    private static long[] fibonacci;
+    //    private static long[] fibonacci;
     public static void main(String[] args) {
 
 //        System.out.println(fibonacci(n));
@@ -26,12 +26,11 @@ public class Main {
         int count = 11;
         int num1 = 0;
         int num2 = 1;
-        for (int i = 0; i <= count; i++){
+        for (int i = 0; i <= count; i++) {
             int sum = num1 + num2;
-            System.out.print(" " +num1);
+            System.out.print(" " + num1);
             num1 = num2;
             num2 = sum;
         }
-
     }
 }
