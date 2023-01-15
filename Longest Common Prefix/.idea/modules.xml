@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Pattern Syntax Checker.iml" filepath="$PROJECT_DIR$/Pattern Syntax Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Common Prefix.iml" filepath="$PROJECT_DIR$/Longest Common Prefix.iml" />
     </modules>
   </component>
 </project>
