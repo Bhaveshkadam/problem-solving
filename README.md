@@ -7,3 +7,6 @@
 
 - [Check Sub String](https://github.com/Bhaveshkadam/problem-solving/tree/main/Check%20Sub%20String)
 
+- [Check contains of](https://github.com/Bhaveshkadam/problem-solving/tree/main/Check%20contains%20of)
+
+
