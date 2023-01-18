@@ -15,5 +15,5 @@
 
 - [Hackerrank](https://github.com/Bhaveshkadam/problem-solving/tree/main/Hackerrank)
 
-
+- [Insertion Sort Algorithm](https://github.com/Bhaveshkadam/problem-solving/tree/main/Insertion%20Sort%20Algorithm)
 
