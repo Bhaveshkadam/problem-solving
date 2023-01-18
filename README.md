@@ -21,3 +21,5 @@
 
 - [Longest Common Prefix](https://github.com/Bhaveshkadam/problem-solving/tree/main/Longest%20Common%20Prefix)
 
+- [Reverce array](https://github.com/Bhaveshkadam/problem-solving/tree/main/Reverce%20array)
+
