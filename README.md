@@ -17,3 +17,4 @@
 
 - [Insertion Sort Algorithm](https://github.com/Bhaveshkadam/problem-solving/tree/main/Insertion%20Sort%20Algorithm)
 
+- [Interface Segregation Principle](https://github.com/Bhaveshkadam/problem-solving/tree/main/Interface%20Segregation%20Principle)
