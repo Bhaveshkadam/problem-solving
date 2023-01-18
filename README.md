@@ -13,5 +13,7 @@
 
 - [Fibonacci Series](https://github.com/Bhaveshkadam/problem-solving/tree/main/Fibonacci%20Series)
 
+- [Hackerrank](https://github.com/Bhaveshkadam/problem-solving/tree/main/Hackerrank)
+
 
 
