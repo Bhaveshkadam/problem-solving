@@ -25,3 +25,5 @@
 
 - [Roman To Integer](https://github.com/Bhaveshkadam/problem-solving/tree/main/RomanToInteger)
 
+- [jdbc-opration](https://github.com/Bhaveshkadam/problem-solving/tree/main/jdbc-opration)
+
